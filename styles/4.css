@@ -21,29 +21,30 @@
 }
 
 .answer_4 {
-    width: 228px;
-    font-size: 1rem;
+    width: 70%;
+    font-size: 3rem;
     font-family: "Ogil";
     font-weight: bold;
+    text-align: center;
     padding: 6px 0 4px 10px;
     border: 1px solid #cecece;
     background: black;
     color: white;
-    margin: 50px 20px;
-    box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);
+    margin: 100px 20px;
+    box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);
 }
 
 .link_4 {
     text-align: center;
-    margin: 30px auto;
-    padding: 20px 90px;
+    margin: 50px auto;
+    padding: 50px 300px;
     background-color: black;
     color: white;
     display: block;
     cursor: pointer;
     font-family: "Ogil";
     font-weight: bold;
-    font-size: 1.7rem;
+    font-size: 4rem;
     text-decoration: none;
     pointer-events: none;
     opacity: 0.8;
@@ -52,7 +53,7 @@
 .active {
     pointer-events: auto;
     transition: 1s linear;
-    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
     text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
     opacity: 1;
 }
