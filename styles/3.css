@@ -1,0 +1,38 @@
+@import "2.css";
+/*page 3*/
+.page_3 {
+    background-image: url("../img/triangle.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.title_3 {
+    padding:5%;
+    font-family: "Ogil";
+}
+
+.story_3 {
+    font-family: 'El Messiri', sans-serif;
+    padding:0 10px 15px;
+    margin: 0;
+}
+
+.gray {
+    color: gray;
+}
+
+.link_3 {
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px 90px;
+    background-color: black;
+    color: white;
+    display: block;
+    cursor: pointer;
+    font-family: "Ogil";
+    font-weight: bold;
+    font-size: 1.7rem;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
+}
