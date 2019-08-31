@@ -8,15 +8,16 @@ $(function(){
             $('.link_2').addClass("active");
         }
         if (valid == "4") {
-            $(".invisible").addClass("visible");
+            $(".story_4").addClass("visible");
             $('.link_4').addClass("active");
         }
         if (valid == "5") {
-            $(".invisible").addClass("visible");
+            $(".story_5").addClass("visible");
+            $(".map").addClass("visible");
             $('.link_5').addClass("active");
         }
         if (valid == "6") {
-            $(".invisible").addClass("visible");
+            $(".story_6").addClass("visible");
             $('.link_6').addClass("active");
         }
         if (valid == "7") {
