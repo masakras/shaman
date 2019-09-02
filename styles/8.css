@@ -61,3 +61,7 @@
     opacity: 1;
     transition: 0.5s linear;
 }
+
+.fix_font {
+    font-size: 3.5rem;
+}
