@@ -23,5 +23,8 @@ $(function(){
         if (valid == "7") {
             $('.link_7').addClass("active");
         }
+        if (valid == "8") {
+            $('.link_8').addClass("active");
+        }
     });
 });
