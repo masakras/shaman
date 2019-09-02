@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a74978-c2f2-4fe6-b148-bc822a03a3c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.html" afterDir="false" />
-    </list>
+    <list default="true" id="53a74978-c2f2-4fe6-b148-bc822a03a3c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +72,16 @@
       <workItem from="1567224542071" duration="591000" />
       <workItem from="1567226394951" duration="9417000" />
       <workItem from="1567237077073" duration="6011000" />
-      <workItem from="1567403864302" duration="1491000" />
+      <workItem from="1567403864302" duration="1797000" />
     </task>
+    <task id="LOCAL-00001" summary="test 5">
+      <created>1567405565822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567405565822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 5" />
   </component>
 </project>
