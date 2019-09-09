@@ -1,19 +1,19 @@
 @import "fonts.css";
 /*main page*/
 body {
-    font-size: 2em;
+    font-size: 4rem;
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
 
 .page {
     background-image: url("../img/green_leaves_PNG3671.png");
-    background-size: 25em;
+    background-size: 50rem;
     background-repeat: no-repeat;
 }
 
 h1  {
-    font-size: 3em;
+    font-size: 7rem;
     width: 100%;
     text-align: center;
 }
@@ -52,7 +52,7 @@ h1  {
     cursor: pointer;
     font-family: "Ogil";
     font-weight: bold;
-    font-size: 2em;
+    font-size: 4rem;
     text-decoration: none;
     box-shadow: 0 0 50px 0 rgba(0,0,0,0.75);
     text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
@@ -73,22 +73,23 @@ h1  {
     animation: fade-in 3s ease;
 }
 
-/*media*/
+/*!*media*!*/
 
-@-moz-document url-prefix() {
-     .page {
-         background-size: 6em;
-     }
-     h1 {
-         font-size: 1.5em;
-     }
-     .story {
-         font-size: 0.8em;
-         max-width: 90vw;
-     }
-     .link {
-         font-size: 1em;
-         padding: 20px 90px;
-     }
+/*@-moz-document url-prefix() {*/
+/*     .page {*/
+/*         background-size: 15rem;*/
+/*     }*/
+/*     h1 {*/
+/*         font-size: 2rem;*/
+/*     }*/
+/*     .story {*/
+/*         font-size: 1.5rem;*/
+/*         max-width: 90vw;*/
+/*         padding: 0 78px;*/
+/*     }*/
+/*     .link {*/
+/*         font-size: 2rem;*/
+/*         padding: 20px 300px;*/
+/*     }*/
 
- }
+/* }*/
