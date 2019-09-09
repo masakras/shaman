@@ -1,27 +1,27 @@
-@import "4.css";
-/*page 5*/
-.page_5 {
-    background-image: url("../img/Treasure.jpg");
+@import "8.css";
+/*page 9*/
+.page_9 {
+    background-image: url("../img/yin-34549_960_720.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
 
-.container_5 {
+.container_9 {
     background-color: rgba(255,255,255,0.5);
 }
 
-.title_5 {
+.title_9 {
     padding:5%;
     font-family: "Ogil";
 }
 
-.story_5 {
+.story_9 {
     font-family: 'El Messiri', sans-serif;
     padding:0 10px 15px;
     margin: 0;
 }
 
-.answer_5 {
+.answer_9 {
     width: 70%;
     font-size: 3rem;
     font-family: "Ogil";
@@ -32,10 +32,10 @@
     background: black;
     color: white;
     margin: 100px 20px;
-    box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,1);
 }
 
-.link_5 {
+.link_9 {
     text-align: center;
     margin: 50px auto;
     padding: 50px 300px;
@@ -59,6 +59,6 @@
     transition: 0.5s linear;
 }
 
-.map {
-    max-width: 80vw;
+.fix_font {
+    font-size: 4rem;
 }

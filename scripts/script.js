@@ -26,5 +26,11 @@ $(function(){
         if (valid == "8") {
             $('.link_8').addClass("active");
         }
+        if (valid == "9") {
+            $('.link_9').addClass("active");
+        }
+        if (valid == "10") {
+            $('.link_10').addClass("active");
+        }
     });
 });
