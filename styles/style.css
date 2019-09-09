@@ -1,8 +1,9 @@
 @import "fonts.css";
 /*main page*/
 body {
-    font-size: 3rem;
+    font-size: 4rem;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 .page {
@@ -53,7 +54,7 @@ h1  {
     font-weight: bold;
     font-size: 4rem;
     text-decoration: none;
-    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.75);
+    box-shadow: 0 0 50px 0 rgba(0,0,0,0.75);
     text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
 }
 
@@ -71,3 +72,24 @@ h1  {
 .content {
     animation: fade-in 3s ease;
 }
+
+/*media*/
+
+@-moz-document url-prefix() {
+     .page {
+         background-size: 15rem;
+     }
+     h1 {
+         font-size: 2rem;
+     }
+     .story {
+         font-size: 1.3rem;
+         max-width: 90vw;
+         padding: 0 78px;
+     }
+     .link {
+         font-size: 2rem;
+         padding: 20px 300px;
+     }
+
+ }

@@ -54,3 +54,28 @@
     opacity: 1;
     transition: 0.5s linear;
 }
+
+/*media*/
+
+@-moz-document url-prefix() {
+    h1 {
+        font-size: 2rem;
+    }
+    .title_2 {
+        margin: 0;
+    }
+    .story_2 {
+        font-size: 1.3rem;
+        max-width: 90vw;
+        padding: 0 78px;
+    }
+    .link_2 {
+        font-size: 2rem;
+        padding: 20px 300px;
+    }
+    .answer_2 {
+        width: 30%;
+        font-size: 1rem;
+        margin: 30px 20px;
+    }
+}

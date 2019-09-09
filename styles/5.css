@@ -62,3 +62,25 @@
 .map {
     max-width: 80vw;
 }
+
+/*media*/
+
+@-moz-document url-prefix() {
+    .title_5 {
+        margin: 0;
+    }
+    .story_5 {
+        font-size: 1.3rem;
+        max-width: 90vw;
+        padding: 0 78px;
+    }
+    .link_5 {
+        font-size: 2rem;
+        padding: 20px 300px;
+    }
+    .answer_5 {
+        width: 30%;
+        font-size: 1rem;
+        margin: 30px 20px;
+    }
+}
