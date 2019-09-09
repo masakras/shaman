@@ -65,25 +65,3 @@
 .fix_font {
     font-size: 3.5rem;
 }
-
-/*media*/
-
-@-moz-document url-prefix() {
-    .title_8 {
-        margin: 0;
-    }
-    .story_8 {
-        font-size: 1.3rem;
-        max-width: 90vw;
-        padding: 0 78px;
-    }
-    .link_8 {
-        font-size: 2rem;
-        padding: 20px 300px;
-    }
-    .answer_8 {
-        width: 30%;
-        font-size: 1rem;
-        margin: 30px 20px;
-    }
-}

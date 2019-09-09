@@ -72,24 +72,3 @@ h1  {
 .content {
     animation: fade-in 3s ease;
 }
-
-/*!*media*!*/
-
-/*@-moz-document url-prefix() {*/
-/*     .page {*/
-/*         background-size: 15rem;*/
-/*     }*/
-/*     h1 {*/
-/*         font-size: 2rem;*/
-/*     }*/
-/*     .story {*/
-/*         font-size: 1.5rem;*/
-/*         max-width: 90vw;*/
-/*         padding: 0 78px;*/
-/*     }*/
-/*     .link {*/
-/*         font-size: 2rem;*/
-/*         padding: 20px 300px;*/
-/*     }*/
-
-/* }*/
