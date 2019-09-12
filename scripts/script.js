@@ -1,35 +1,35 @@
 $(function(){
     $('input').on('input keyup', function(e) { //обработчик изменения input
         let valid = $('input').val();
-        if (valid == "1") {
+        if (valid == "ВСЕ") {
             $('.link_1').addClass("active");
         }
-        if (valid == "2") {
+        if (valid == "МЫ") {
             $('.link_2').addClass("active");
         }
-        if (valid == "4") {
+        if (valid == "ЖЕЛАЕМ") {
             $(".story_4").addClass("visible");
             $('.link_4').addClass("active");
         }
-        if (valid == "5") {
+        if (valid == "СЧАСТЬЯ") {
             $(".story_5").addClass("visible");
             $(".map").addClass("visible");
             $('.link_5').addClass("active");
         }
-        if (valid == "6") {
+        if (valid == "МОЛОДОЙ") {
             $(".story_6").addClass("visible");
             $('.link_6').addClass("active");
         }
-        if (valid == "7") {
+        if (valid == "СЕМЬЕ") {
             $('.link_7').addClass("active");
         }
-        if (valid == "8") {
+        if (valid == "ЯНЫ") {
             $('.link_8').addClass("active");
         }
-        if (valid == "9") {
+        if (valid == "И") {
             $('.link_9').addClass("active");
         }
-        if (valid == "10") {
+        if (valid == "ДЕНИСА") {
             $('.link_10').addClass("active");
         }
     });
