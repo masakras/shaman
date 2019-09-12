@@ -5,14 +5,31 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/10.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/10.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/11.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/3.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/4.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/6.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/7.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/8.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/9.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/9.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +104,7 @@
       <workItem from="1567403864302" duration="2401000" />
       <workItem from="1567445818283" duration="5617000" />
       <workItem from="1568020279355" duration="16517000" />
-      <workItem from="1568313338545" duration="1617000" />
+      <workItem from="1568313338545" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary="test 5">
       <created>1567405565822</created>
